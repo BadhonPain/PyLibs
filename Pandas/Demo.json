@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Symond",
+        "age": 20,
+        "department": "CSE",
+        "cgpa": 3.85
+    },
+    {
+        "name": "Alice",
+        "age": 21,
+        "department": "EEE",
+        "cgpa": 3.92
+    },
+    {
+        "name": "Bob",
+        "age": 22,
+        "department": "ME",
+        "cgpa": 3.70
+    }
+]
